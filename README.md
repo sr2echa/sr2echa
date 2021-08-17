@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://i.imgur.com/GlZKHMa.png" alt="logo.png" width="350" /> 
 
-```bash
+```c++
 5R33CH4@github
 -------------------------
 OS: Archcraft Linux x86_64
