@@ -1,30 +1,11 @@
-### Hi there 👋
-
-<!--
-**5R33CH4/5R33CH4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 ```zsh
 > neofetch
 ```
 
-<img align="left" src="https://i.imgur.com/GlZKHMa.png" alt="logo.png" width="350" /> 
+<img align="left" src="https://raw.githubusercontent.com/5R33CH4/5R33CH4/main/assets/neofetch.png" alt="logo.png" width="350" /> 
 
-```csharp
-[5R33CH4]@github
+```terminal
+5R33CH4@github
 -------------------------
 OS: Archcraft Linux x86_64
 Shell: zsh 5.8
@@ -35,7 +16,6 @@ Languages: Python, JavaScript,
 Learning: Node.js, React.js, MySQL,
           Vue.js, CPP
 Hobbies: Coding, Sports, Gaming
-Website: https://sreecha.me/
 Discord: Quantum Pirate#6968    ; 
          !RAM.exe#6969
 ```
