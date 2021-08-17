@@ -32,8 +32,5 @@ Discord:    Quantum Pirate#6968
   <img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
 
-<br>
-<br>
-
 ---
 [![forthebadge](https://github.com/5R33CH4/backpack/blob/main/svg/badges/stalk-me.svg)](https://github.com/5R33CH4/5R33CH4/blob/main/stalk-me.md)
