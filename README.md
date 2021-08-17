@@ -37,7 +37,7 @@ Learning: Node.js, React.js, MySQL,
 Hobbies: Coding, Sports, Gaming
 Website: https://sreecha.me/
 Discord: Quantum Pirate#6968    ; 
-         ! Runnin&Gunning#6969
+         !RAM.exe#6969
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
