@@ -6,9 +6,9 @@
 
 ```csharp
 sreecharan@github
--------------------------
-OS:        Archcraft Linux x86_64
-Shell:     zsh 5.8
+-----------------
+OS:         Archcraft Linux x86_64
+Shell:      zsh 5.8
 Pronouns:   He/Him
 Nickname:   sreecha
 Location:   India, IN
@@ -19,6 +19,8 @@ Learning:   Node.js, React.js, MySQL,
 Hobbies:    Coding, Sports, Video-Games
 Discord:    Quantum Pirate#6968    
             [https://discord.gg/zBfSCasSnX]
+            
+            
 ```
 
 <p align="left">
