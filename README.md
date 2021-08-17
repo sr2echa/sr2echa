@@ -5,11 +5,12 @@
 <img align="left" src="https://raw.githubusercontent.com/5R33CH4/5R33CH4/main/assets/neofetch.png" alt="logo.png" width="350" /> 
 
 ```csharp
-.5R33CH4@github
+sreecharan@github
 -------------------------
 OS: Archcraft Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
+Nickname: sreecha
 Location: India, IN
 Languages: Python, JavaScript,
            HTML, CSS
