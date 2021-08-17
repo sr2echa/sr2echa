@@ -1,2 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852891784898936832)](https://discord.com/users/852891784898936832)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852891784898936832?&borderRadius=4px&idleMessage=Probably%20planning%20something%20big...)](https://discord.gg/zBfSCasSnX)
+
+<br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sreecharan.s&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=sreecharan.s&redirect=true)
