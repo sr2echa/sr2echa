@@ -34,3 +34,4 @@ Discord:    Quantum Pirate#6968
 
 ---
 [![forthebadge](https://github.com/5R33CH4/backpack/blob/main/svg/badges/stalk-me.svg)](https://github.com/5R33CH4/5R33CH4/blob/main/stalk-me.md)
+[![forthebadge](https://github.com/5R33CH4/backpack/blob/main/svg/badges/about-me.svg)](https://github.com/5R33CH4/5R33CH4/blob/main/about.md)
