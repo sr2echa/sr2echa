@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/Refresh-Jokes%20-red?style=for-the-badge" height="35">
  </a> 
   
-<br>
   
 <p align="center">
+  <br>
 <img src = "https://readme-jokes.vercel.app/api">
  <img src = "https://readme-jokes.vercel.app/api?theme=gradientBlue">
  <img src = "https://readme-jokes.vercel.app/api?theme=solidBlue">
