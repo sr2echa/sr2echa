@@ -1,3 +1,4 @@
+<p style="margin-left:auto;"><img src="https://img.shields.io/badge/-Refresh-f69420?style=for-the-badge"></p>
 <p align="center">
 <img src = "https://readme-jokes.vercel.app/api">
  <img src = "https://readme-jokes.vercel.app/api?theme=gradientBlue">
