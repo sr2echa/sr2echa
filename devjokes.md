@@ -1,3 +1,4 @@
+<p align="center">
 <img src = "https://readme-jokes.vercel.app/api">
  <img src = "https://readme-jokes.vercel.app/api?theme=gradientBlue">
  <img src = "https://readme-jokes.vercel.app/api?theme=solidBlue">
@@ -35,3 +36,4 @@
  <img src = "https://readme-jokes.vercel.app/api?theme=react">
  <img src = "https://readme-jokes.vercel.app/api?theme=blueberry">
  <img src = "https://readme-jokes.vercel.app/api?theme=random">
+ </p>
