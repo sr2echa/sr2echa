@@ -42,7 +42,6 @@ Discord:    Quantum Pirate#6968
                         <img src="https://github.com/5R33CH4/backpack/blob/main/svg/badges/about-me.svg" alt="stalk-me">
             </a>
             <br>
-            <a>
-                        <img src="https://komarev.com/ghpvc/?username=5R33CH4&style=flat-square" alt="count">
-            </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
