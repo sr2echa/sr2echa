@@ -45,3 +45,4 @@ Discord:    Quantum Pirate#6968
 </p>
 
 ![](https://komarev.com/ghpvc/?username=5R33CH4&style=flat-square)
+![](https://api.ghprofile.me/view?username=5R33CH4&style=for-the-badge)
