@@ -8,7 +8,7 @@
 @github
 -----------------
 
-OS:         Archcraft Linux x86_64
+OS:         
 Shell:      zsh 5.8
 Pronouns:   He / Him
 Nickname:   
