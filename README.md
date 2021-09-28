@@ -9,15 +9,13 @@
 -----------------
 
 OS:         
-Shell:      zsh 5.8
-Pronouns:   He / Him
+Shell:      
+Pronouns:   
 Nickname:   
 Location:   
-Languages:  Python, JavaScript,
-            HTML, CSS
-Learning:   Node.js, React.js, MySQL,
-            Vue.js, CPP
-Hobbies:    Coding, Sports, Video-Games
+Languages:  
+Learning:   
+Hobbies:    
 Discord:    
                      
 ```
