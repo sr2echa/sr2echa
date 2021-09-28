@@ -5,21 +5,20 @@
 <img align="left" src="https://raw.githubusercontent.com/5R33CH4/5R33CH4/main/assets/neofetch.png" alt="logo.png" width="350" /> 
 
 ```csharp
-sreecharan@github
+@github
 -----------------
 
 OS:         Archcraft Linux x86_64
 Shell:      zsh 5.8
 Pronouns:   He / Him
-Nickname:   sreecha
-Location:   India, IN
+Nickname:   
+Location:   
 Languages:  Python, JavaScript,
             HTML, CSS
 Learning:   Node.js, React.js, MySQL,
             Vue.js, CPP
 Hobbies:    Coding, Sports, Video-Games
-Discord:    Quantum Pirate#6968    
-            [https://discord.gg/zBfSCasSnX]
+Discord:    
                      
 ```
 
