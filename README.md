@@ -2,19 +2,19 @@
 > neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/sreechar/sreechar/main/assets/neofetch.png" alt="logo.png" width="350" /> 
+<img align="left" src="./assets/neofetch.png" alt="logo.png" width="350" /> 
 
 ```csharp
-@github
+sreecha@github
 -----------------
 
-OS:         
+OS:         Arch Linux x64 
 Shell:      ZSH
 Pronouns:   He/Him
 Nickname:   sreecha
 Location:   Localhost
-Languages:  Py,Js,Htl
-Learning:   Ts
+Languages:  Python, JS, Html, Css, Bash, MySQL, TS
+Learning:   Rust
 Hobbies:    Coding, Music, Sports
 Discord:    Vixen#1317
                      
