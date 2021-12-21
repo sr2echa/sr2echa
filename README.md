@@ -17,7 +17,7 @@ Languages:  Python, JS, Html, Css, Bash, MySQL
 Learning:   Rust , TS
 Hobbies:    Coding, Music, Sports
  
-                     
+                    
 ```
 
 <p align="left">
