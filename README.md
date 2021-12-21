@@ -13,10 +13,10 @@ Shell:      ZSH
 Pronouns:   He/Him
 Nickname:   sreecha
 Location:   Localhost
-Languages:  Python, JS, Html, Css, Bash, MySQL, TS
-Learning:   Rust
+Languages:  Python, JS, Html, Css, Bash, MySQL
+Learning:   Rust , TS
 Hobbies:    Coding, Music, Sports
-Discord:    Vixen#1317
+ 
                      
 ```
 
@@ -32,11 +32,11 @@ Discord:    Vixen#1317
 ---
 <p align="center">
             <a href="https://sreecha.me/">
-                        <img src="https://github.com/5R33CH4/backpack/blob/main/svg/badges/stalk-me.svg" alt="stalk-me">
+                        <img src="https://github.com/sreechar/backpack/blob/main/svg/badges/stalk-me.svg" alt="stalk-me">
             </a>
             ᲼᲼
             <a href="https://github.com/sreechar/sreechar/blob/main/about.md">
-                        <img src="https://github.com/5R33CH4/backpack/blob/main/svg/badges/about-me.svg" alt="stalk-me">
+                        <img src="https://github.com/sreechar/backpack/blob/main/svg/badges/about-me.svg" alt="stalk-me">
             </a>
             <br>
 </p>
