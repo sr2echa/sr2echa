@@ -30,15 +30,3 @@ Hobbies:    Coding, Music, Sports
 </p>
 
 ---
-<p align="center">
-            <a href="https://sreecha.me/">
-                        <img src="https://github.com/sreechar/backpack/blob/main/svg/badges/stalk-me.svg" alt="stalk-me">
-            </a>
-            ᲼᲼
-            <a href="https://github.com/sreechar/sreechar/blob/main/about.md">
-                        <img src="https://github.com/sreechar/backpack/blob/main/svg/badges/about-me.svg" alt="stalk-me">
-            </a>
-            <br>
-</p>
-
-![](https://komarev.com/ghpvc/?username=sreechar&style=flat-square)
