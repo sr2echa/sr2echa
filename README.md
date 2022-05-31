@@ -16,10 +16,10 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
 
   **Download free screensavers, toolbars and expanded RAM onㅤ[![image](https://user-images.githubusercontent.com/65058816/171200402-ec9b3abe-0128-46aa-a3d5-70d3fc28fb3a.png)
   sreecha.me](https://sreecha.me)**
-  <br><br>
+
   
   #### Tools on my arsenel 
-  ![image](https://user-images.githubusercontent.com/65058816/171198164-32372af5-5e36-42e1-9100-5390f6b301ce.png)
+  <img src="https://user-images.githubusercontent.com/65058816/171198164-32372af5-5e36-42e1-9100-5390f6b301ce.png" width="350">
  
   
   #### My Presense in the Internet
