@@ -1,6 +1,6 @@
 <p align="right">
 <!--<img src="https://user-images.githubusercontent.com/65058816/171328223-7f35d08d-4724-4d33-b223-bf9a7c667b4d.png" width="50%" align="left">-->
-<img src="https://user-images.githubusercontent.com/65058816/171335786-19093222-ea69-4746-856a-fbe40a95a9ed.png" width=40% align="left">
+<img src="https://user-images.githubusercontent.com/65058816/171335786-19093222-ea69-4746-856a-fbe40a95a9ed.png" width=400 align="left">
 </p>
 
 ![](./assets/wave.svg)
@@ -15,7 +15,7 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
 <img src="https://user-images.githubusercontent.com/65058816/171198164-32372af5-5e36-42e1-9100-5390f6b301ce.png" width="350">
 
 <a href="https://discord.com/users/892689836249591849">
-  <img src="https://lanyard-profile-readme.vercel.app/api/892689836249591849?idleMessage=Just%20chillin'%20at%20the%20moment..." align="left" width="40%"/>
+  <img src="https://lanyard-profile-readme.vercel.app/api/892689836249591849?idleMessage=Just%20chillin'%20at%20the%20moment..." align="left" width="400"/>
 </a>
   
 <p align="right">
