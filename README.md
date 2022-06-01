@@ -5,7 +5,9 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
 ![---](https://user-images.githubusercontent.com/65058816/171174925-f11fd396-df3c-42c3-9caf-04e814a8e1b3.png)
 
 <p align="right">
-<img src="https://user-images.githubusercontent.com/65058816/171328223-7f35d08d-4724-4d33-b223-bf9a7c667b4d.png" width="50%" align="left"><br>
+<!--<img src="https://user-images.githubusercontent.com/65058816/171328223-7f35d08d-4724-4d33-b223-bf9a7c667b4d.png" width="50%" align="left">-->
+<img src="https://user-images.githubusercontent.com/65058816/171334979-ed545384-f0a8-4bb7-9bde-bc3b3d3a2821.png" width=50% align="left">
+
 <a href="https://discord.com/users/892689836249591849">
   <img src="https://lanyard-profile-readme.vercel.app/api/892689836249591849?idleMessage=Just%20chillin'%20at%20the%20moment..." align="left" width="50%"/>
 </a>
@@ -13,9 +15,6 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
 
 **🛠️ Currently Working on :** <br>
 [Basically.email](https://basically.email) , [Shareweave](https://shreweave.com) , [Canu](https://canu.app) , [EthBio](https://ethbio.xyz) , [Opensourcecollage](https://opensourcecollage.com)
-
-**Download free screensavers, toolbars and expanded RAM @ㅤ<br>
-[![image](https://user-images.githubusercontent.com/65058816/171200402-ec9b3abe-0128-46aa-a3d5-70d3fc28fb3a.png) sreecha.me](https://sreecha.me)**
 
 #### Tools on my arsenel 
 <img src="https://user-images.githubusercontent.com/65058816/171198164-32372af5-5e36-42e1-9100-5390f6b301ce.png" width="350">
