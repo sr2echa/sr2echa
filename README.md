@@ -4,13 +4,12 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
 
 ![---](https://user-images.githubusercontent.com/65058816/171174925-f11fd396-df3c-42c3-9caf-04e814a8e1b3.png)
 
+<p align="right">
+<img src="https://user-images.githubusercontent.com/65058816/171328223-7f35d08d-4724-4d33-b223-bf9a7c667b4d.png" width="50%" align="left"><br>
 <a href="https://discord.com/users/892689836249591849">
-  <img src="https://lanyard-profile-readme.vercel.app/api/892689836249591849?idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" width="48%"/>
+  <img src="https://lanyard-profile-readme.vercel.app/api/892689836249591849?idleMessage=Just%20chillin'%20at%20the%20moment..." align="left" width="50%"/>
 </a>
-
-<img src="https://user-images.githubusercontent.com/65058816/171328223-7f35d08d-4724-4d33-b223-bf9a7c667b4d.png" width="45%" align="left">
-  
-<br><br>
+</p>
 
 **🛠️ Currently Working on :** <br>
 [Basically.email](https://basically.email) , [Shareweave](https://shreweave.com) , [Canu](https://canu.app) , [EthBio](https://ethbio.xyz) , [Opensourcecollage](https://opensourcecollage.com)
@@ -30,7 +29,6 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
   <a href="https://linkedin.com/in/atsreecha">
     <img src="https://user-images.githubusercontent.com/65058816/171218514-f07422ae-3ba6-4f12-9d27-02a6c7bc091e.png" width=120>
   </a>
-  <br>
   <a href="https://www.instagram.com/sr2echa/">
      <img src="https://user-images.githubusercontent.com/65058816/171219493-ea26adfb-5c2c-46a4-b723-2b3a0a93bc0a.png" width=120>
   </a>
