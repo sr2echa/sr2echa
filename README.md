@@ -1,6 +1,6 @@
 <p align="right">
 <!--<img src="https://user-images.githubusercontent.com/65058816/171328223-7f35d08d-4724-4d33-b223-bf9a7c667b4d.png" width="50%" align="left">-->
-<img src="https://user-images.githubusercontent.com/65058816/171335786-19093222-ea69-4746-856a-fbe40a95a9ed.png" width=400 align="left">
+<img src="https://user-images.githubusercontent.com/65058816/171335786-19093222-ea69-4746-856a-fbe40a95a9ed.png" width=350 align="left">
 </p>
 
 ![](./assets/wave.svg)
