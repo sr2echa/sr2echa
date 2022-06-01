@@ -6,7 +6,7 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
 
 <p align="right">
 <!--<img src="https://user-images.githubusercontent.com/65058816/171328223-7f35d08d-4724-4d33-b223-bf9a7c667b4d.png" width="50%" align="left">-->
-<img src="https://user-images.githubusercontent.com/65058816/171334979-ed545384-f0a8-4bb7-9bde-bc3b3d3a2821.png" width=50% align="left">
+<img src="https://user-images.githubusercontent.com/65058816/171335786-19093222-ea69-4746-856a-fbe40a95a9ed.png" width=50% align="left">
 
 <a href="https://discord.com/users/892689836249591849">
   <img src="https://lanyard-profile-readme.vercel.app/api/892689836249591849?idleMessage=Just%20chillin'%20at%20the%20moment..." align="left" width="50%"/>
