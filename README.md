@@ -1,6 +1,4 @@
-<p align="right">
 ![](./assets/banner.svg)
-</p>
 
 ![](./assets/wave.svg)
 # Hi there! It's me Sreecharan
