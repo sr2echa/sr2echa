@@ -8,6 +8,7 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
   <img src="https://lanyard-profile-readme.vercel.app/api/892689836249591849?idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
+<img src="https://user-images.githubusercontent.com/65058816/171328223-7f35d08d-4724-4d33-b223-bf9a7c667b4d.png" width = 300 align="left">
   
 **🛠️ Currently Working on :** <br>
 [Basically.email](https://basically.email) , [Shareweave](https://shreweave.com) , [Canu](https://canu.app) , [EthBio](https://ethbio.xyz) , [Opensourcecollage](https://opensourcecollage.com)
