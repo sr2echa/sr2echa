@@ -1,13 +1,17 @@
 <p align="right">
 <!--<img src="https://user-images.githubusercontent.com/65058816/171328223-7f35d08d-4724-4d33-b223-bf9a7c667b4d.png" width="50%" align="left">-->
-<img src="https://user-images.githubusercontent.com/65058816/171335786-19093222-ea69-4746-856a-fbe40a95a9ed.png" width=350 align="left">
+<img src="https://user-images.githubusercontent.com/65058816/171407147-00be733b-7857-4fd2-a55e-d866489d3fdc.png" width=350 align="left">
 </p>
 
 ![](./assets/wave.svg)
 # Hi there! It's me Sreecharan
 I'm a part-time gamer, computer enthusiast and a designer, who stretches the capibilities by engineering programable systems and to create stunning user experiences.
+
+
 **🛠️ Currently Working on :** <br>
 [Basically.email](https://basically.email) , [Shareweave](https://shreweave.com) , [Canu](https://canu.app) , [EthBio](https://ethbio.xyz) , [Opensourcecollage](https://opensourcecollage.com)
+
+
 #### Tools on my arsenel 
 <img src="https://user-images.githubusercontent.com/65058816/171198164-32372af5-5e36-42e1-9100-5390f6b301ce.png" width="350">
 
