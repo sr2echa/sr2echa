@@ -14,12 +14,7 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
 
 
 **🛠️ Currently Working on :** <br>
-[Basically.email](https://basically.email) , [Shareweave](https://shreweave.com) , [Canu](https://canu.app) , [EthBio](https://ethbio.xyz) , [Opensourcecollage](https://opensourcecollage.com)
-
-
-#### Tools on my arsenel 
-<img src="https://user-images.githubusercontent.com/65058816/171198164-32372af5-5e36-42e1-9100-5390f6b301ce.png" width="350">
-
+[Basically.email](https://basically.email) , [Shareweave](https://shreweave.com) , [EthBio](https://ethbio.xyz) , [Opensourcecollage](https://opensourcecollage.com)
 
 <p align="right">
   <h4> My Presense in the Internet </h4>
