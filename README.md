@@ -1,7 +1,8 @@
-<p align="right">
-<!--<img src="https://user-images.githubusercontent.com/65058816/171328223-7f35d08d-4724-4d33-b223-bf9a7c667b4d.png" width="50%" align="left">-->
-<img src="https://user-images.githubusercontent.com/65058816/171407147-00be733b-7857-4fd2-a55e-d866489d3fdc.png" width=50% align="left">
-</p>
+<a href='https://basically.email'>
+  <p align="right">
+  <img src="https://user-images.githubusercontent.com/65058816/171407147-00be733b-7857-4fd2-a55e-d866489d3fdc.png" width=50% align="left">
+  </p>
+</a>
 
 <a href="https://discord.com/users/892689836249591849">
   <img src="https://lanyard-profile-readme.vercel.app/api/892689836249591849?idleMessage=Just%20chillin'%20at%20the%20moment..." width="50%" align="left" />
