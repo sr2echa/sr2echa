@@ -28,7 +28,7 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
   <a href="https://www.instagram.com/sr2echa/">
      <img src="https://user-images.githubusercontent.com/65058816/171219493-ea26adfb-5c2c-46a4-b723-2b3a0a93bc0a.png" width=120>
   </a>
-  <a href="https://twitch.tv/twitch_candyx">
+  <a href="https://twitch.tv/sr2echa">
      <img src="https://user-images.githubusercontent.com/65058816/171219465-b71ee243-e76e-494c-9748-59cb371221b6.png" width=120>
   </a>
 </p>
