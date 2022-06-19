@@ -15,7 +15,7 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
 
 
 **🛠️ Currently Working on :** <br>
-[Basically.email](https://basically.email) , [Shareweave](https://shreweave.com) , [EthBio](https://ethbio.xyz) , [Opensourcecollage](https://opensourcecollage.com)
+[Basically.email](https://basically.email) , [Zipe](https://justzipe.me) , [Shareweave](https://shreweave.com) , [EthBio](https://ethbio.xyz) & [Opensourcecollage](https://opensourcecollage.com)
 
 <p align="right">
   <h4> My Presense in the Internet </h4>
