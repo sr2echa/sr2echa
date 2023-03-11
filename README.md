@@ -36,4 +36,4 @@ I'm a part-time gamer, computer enthusiast and a designer, who stretches the cap
 [![Spotify](https://user-images.githubusercontent.com/65058816/171203206-f6517345-6bef-4e2b-bc60-a077450ade84.png)](https://open.spotify.com/playlist/5n7wylHu4IS2IcmZ4rP06o)
 
 
-<img src="https://hits.hop.sh/hits?url=https://sreecha.me" />
+<img src="https://hits.hop.sh/v1/hits?url=https://sreecha.me" />
