@@ -11,7 +11,7 @@
 
 ![](./assets/wave.svg)
 # Hi there! It's me Sreecharan
-I'm a part-time gamer, computer enthusiast and a designer, who stretches the capibilities by engineering programable systems and to create stunning user experiences.
+I'm a part-time gamer, computer enthusiast and a designer, who stretches the capabilities by engineering programable systems and to create stunning user experiences.
 
 
 **🛠️ Currently Working on :** <br>
